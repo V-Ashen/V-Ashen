@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Shen
+### Hi there I'm Vihanga Asen
 
 I'm a passionate Software Engineering student at **NIBM** with a love for building beautiful and functional mobile applications. I thrive on turning complex problems into elegant solutions.
 
