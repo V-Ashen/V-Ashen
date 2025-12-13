@@ -4,11 +4,11 @@ I'm a passionate Software Engineering student at **NIBM** with a love for buildi
 
 ---
 
-*   🔭 I’m currently a Higher Diploma student at the **National Institute of Business Management (NIBM)**.
-*   🌱 I’m focused on mastering **Android Development** with Java & Kotlin, and exploring cross-platform solutions like Flutter.
-*   🚀 My goal is to become a full-stack developer and contribute to innovative, real-world projects.
-*   📫 How to reach me: **[Vihangaasen@gmail.com](mailto:Vihangaasen@gmail.com)** 
-*   ⚡ Fun fact: I believe the best code is not just functional, but also clean and readable.
+*  I’m currently a Higher Diploma student at the **National Institute of Business Management (NIBM)**.
+*  I’m focused on mastering **Android Development**.
+*  My goal is to become a full-stack developer and contribute to innovative, real-world projects.
+*  How to reach me: **[Vihangaasen@gmail.com](mailto:Vihangaasen@gmail.com)** 
+
 
 ---
 
